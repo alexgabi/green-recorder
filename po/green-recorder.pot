@@ -9,49 +9,49 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 10:53+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2017-08-08 HO:MI+ZONE\n"
+"Last-Translator: Alexander Gabilondo <alexgabi@irakasle.net>\n"
+"Language-Team: <LL@li.org>\n"
+"Language: Euskara \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: green-recorder:338 green-recorder:358
 msgid "Green Recorder"
-msgstr ""
+msgstr "Green Recorder"
 
 #: green-recorder:339
 msgid "AreaChooser"
-msgstr ""
+msgstr "Area aukeratzailea"
 
 #: green-recorder:340
 msgid "Green Recorder Preferences"
-msgstr ""
+msgstr "Green Recorder ezarpenak"
 
 #: green-recorder:342 green-recorder:345
 msgid "File Name (Will be overwritten).."
-msgstr ""
+msgstr "Fitxategi-izena (gainidatziko da)..."
 
 #: green-recorder:343 green-recorder:344
 msgid "Enter your command here.."
-msgstr ""
+msgstr "Sartu nahi duzun komandoa hemen..."
 
 #: green-recorder:346
 msgid "MKV (Matroska multimedia container format)"
-msgstr ""
+msgstr "MKV (Matroska multimedia edukiontzi formatua"
 
 #: green-recorder:347
 msgid "AVI (Audio Video Interleaved)"
-msgstr ""
+msgstr "AVI (Audio Video Interleaved)"
 
 #: green-recorder:348
 msgid "MP4 (MPEG-4 Part 14)"
-msgstr ""
+msgstr "MP4 (MPEG-4 Part 14)"
 
 #: green-recorder:349
 msgid "WMV (Windows Media Video)"
-msgstr ""
+msgstr "WMV (Windows Media Video)"
 
 #: green-recorder:350
 msgid "GIF (Graphics Interchange Format)"
@@ -59,88 +59,88 @@ msgstr ""
 
 #: green-recorder:351
 msgid "NUT (NUT Recording Format)"
-msgstr ""
+msgstr "GIF (Graphics Interchange Format)"
 
 #: green-recorder:353 green-recorder:380
 msgid "Record Video"
-msgstr ""
+msgstr "Grabatu bideoa"
 
 #: green-recorder:354 green-recorder:381
 msgid "Record Audio"
-msgstr ""
+msgstr "Grabatu audioa"
 
 #: green-recorder:355
 msgid "Show Mouse"
-msgstr ""
+msgstr "Erakutsi sagua"
 
 #: green-recorder:356 green-recorder:383
 msgid "Follow Mouse"
-msgstr ""
+msgstr "Jarraitu saguari"
 
 #: green-recorder:363
 msgid "A simple screen recorder for Linux desktop. Supports Wayland & Xorg."
-msgstr ""
+msgstr "Linux mahaigainaren pantaila grabatzaile sinplea"
 
 #: green-recorder:369
 msgid "Select a Window"
-msgstr ""
+msgstr "Hautatu leiho bat"
 
 #: green-recorder:370
 msgid "Select an Area"
-msgstr ""
+msgstr "Hautatu area bat"
 
 #: green-recorder:371
 msgid "Frames:"
-msgstr ""
+msgstr "Fotogramak:"
 
 #: green-recorder:372
 msgid "Delay:"
-msgstr ""
+msgstr "Atzerapena:"
 
 #: green-recorder:373
 msgid "Run Command After Recording:"
-msgstr ""
+msgstr "Exekutatu komandoa grabatu ondoren"
 
 #: green-recorder:374
 msgid "Default frames:"
-msgstr ""
+msgstr "Fotograma lehenetsiak:"
 
 #: green-recorder:375
 msgid "Default delay:"
-msgstr ""
+msgstr "Atzerapena lehenetsia:"
 
 #: green-recorder:376
 msgid "Default folder:"
-msgstr ""
+msgstr "Karpeta lehenetsia:"
 
 #: green-recorder:377
 msgid "Default pipeline:"
-msgstr ""
+msgstr "Hodi lehenetsia:"
 
 #: green-recorder:378
 msgid "Default command:"
-msgstr ""
+msgstr "Komando lehenetsia:"
 
 #: green-recorder:379
 msgid "Audio Input Source:"
-msgstr ""
+msgstr "Audio sarreraren jatorria:"
 
 #: green-recorder:382
 msgid "Record Mouse"
-msgstr ""
+msgstr "Grabatu sagua"
 
 #: green-recorder:384
 msgid "Default filename:"
-msgstr ""
+msgstr "Fitxategi-izen lehenetsia"
 
 #: green-recorder:385
 msgid "If you want, you can:"
-msgstr ""
+msgstr "Nahi baduzu, ahal duzu:"
 
 #: green-recorder:415
 msgid "Default PulseAudio Input Source"
-msgstr ""
+msgstr "PulseAudio sarreraren jatorri lehenetsia"
 
 #: green-recorder:472
 msgid "Area Chooser"
-msgstr ""
+msgstr "Area aukeratzailea"
